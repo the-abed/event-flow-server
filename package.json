@@ -20,8 +20,9 @@
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^7.0.0",
     "mongoose": "^9.0.0",
+    "multer": "^2.0.2",
     "passport": "^0.7.0",
     "passport-google-oauth20": "^2.0.0",
-    "vercel": "^48.11.0"
+    "vercel": "^41.0.2"
   }
 }
